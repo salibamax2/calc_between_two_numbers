@@ -23,3 +23,29 @@ Using GCC in your terminal:
 
 ```bash
 gcc -o calculator calculator.c
+```
+## Run
+```bash
+./calculator
+```
+---
+## 📋 Example
+
+Enter the first number: 7
+
+Enter the second number: 3
+
+Enter your operator: *
+
+The result of your operation is: 21.0
+
+---
+## ⚠️ Error Handling
+Division by zero will display: ERROR 999999999
+
+Invalid operator will display: Invalid operator
+
+---
+## 👨‍💻 Author
+Maximo Saliba
+
